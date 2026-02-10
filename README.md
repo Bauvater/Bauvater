@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bauvater
 
-### A passionate Developer from Germany
-
+### Developer from Germany 🇩🇪  
+💻 Interested in AI, automation & creative coding. 
 <!-- Functional Profile Views Badge -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bauvater&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
