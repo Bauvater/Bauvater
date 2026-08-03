@@ -1,13 +1,17 @@
 # Hi 👋, I'm Bauvater
 
-### Developer from Germany 🇩🇪  
-💻 Interested in AI, automation & creative coding. 
+### Developer from Germany 🇩🇪
+
+💻 Interested in AI, automation & creative coding.
+
 <!-- Functional Profile Views Badge -->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bauvater&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I'm currently working on **[Ninja-Hacker-Dog](https://github.com/Bauvater/Ninja-Hacker-Dog)**
+* 🔭 I'm currently working on **[Ninja-Hacker-Dog](https://github.com/Bauvater/Ninja-Hacker-Dog)**
+* 🟣 I'm also working on **[ThanosTokenKiller](https://github.com/Bauvater/ThanosTokenKiller)** — the only Claude Code token killer you’ll ever need!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
